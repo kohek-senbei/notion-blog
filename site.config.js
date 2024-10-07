@@ -21,6 +21,10 @@ const CONFIG = {
       name: `セット図メーカー`,
       href: "https://set-diagram.com",
     },
+    {
+      name: `ページの隅々まで`,
+      href: "https://depth-of-pages.site",
+    },
   ],
   // blog setting (required)
   blog: {
